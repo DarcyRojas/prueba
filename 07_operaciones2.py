@@ -1,4 +1,6 @@
 #CLASE 17marzo
+#esto es un nuevo comentario
+#ya terminé jefe
 number = int(input('Digite un número: '))
 
 #OPERACIONES RELACIONALES O DE COMPARACION
